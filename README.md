@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelmindev&label=Profile%20views&color=0e75b6&style=flat" alt="nelmindev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelmindev" alt="nelmindev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nelmindev" target="blank"><img src="https://img.shields.io/twitter/follow/nelmindev?logo=twitter&style=for-the-badge" alt="nelmindev" /></a> </p>
 
 - 🔭 I’m currently working on [Nexus Cash](https://jetsy.net/nexus)
