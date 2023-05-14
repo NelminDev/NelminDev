@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on FriendFinder<br>👯 I’m looking to collaborate on FriendFinder<br>🤝 I’m looking for new members in [Nelmin Software](https://nelmin.com/)<br>🌱 I’m currently learning Python, Web Design<br>💬 Ask me about Minecraft Plugin and Backend Development<br>⚡ Fun fact I'm from Germany
+🔭 I'm currently working on nothing<br>👯 I’m looking to collaborate on Nelmin Software<br>🤝 I’m looking for new members in [Nelmin Software](https://nelmin.com/)<br>🌱 I’m currently learning Python, Web Design<br>💬 Ask me about Minecraft Plugin and Backend Development<br>⚡ Fun fact I'm from Germany
 
 
 ## 🌐 Socials:
