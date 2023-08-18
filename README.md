@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for collaboration on [PegasusMC.net](https://discord.gg/j2zapQbXYK)
 
-- 💬 Ask me about **[Minecraft](https://minecraft.net/), Java, Spigot/BungeeCord Development**
+- 💬 Ask me about [Minecraft](https://minecraft.net/), Java, Spigot/BungeeCord Development
 
 - 📫 How to reach me **nelmin@pegasusmc.net**
 
-- ⚡ Fun fact **I am a highschool student.**
+- ⚡ Fun fact I am a highschool student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
