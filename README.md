@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A young and nice backend developer from :de:Germany</h3>
+<h3 align="center">A young and nice backend developer from :de:</h3>
 
 - 🔭 I’m currently working on my Minecraft Server [PegasusMC.net](https://pegasusmc.net/)
 
