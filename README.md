@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hi 👋, I'm Max - A :de: backend developer.</h2>
+  <h1 align="center">Hi 👋, I'm Max</h1>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -14,44 +14,44 @@
   
   <h3 align="left">Languages (and Build Tools):</h3>
   <p align="left">
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" /></a>
+    <a href="https://js.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+    <a href="https://www.java.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+    <a href="https://kotlinlang.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" /></a>
+    <a href="https://gradle.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gradle&theme=dark" alt="Gradle" /></a>
   </p>
   
   <h3 align="left">Tools:</h3>
   <p align="left">
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ktor&theme=dark" alt="ktor" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" /></a>
+    <a href="https://ktor.io/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ktor&theme=dark" alt="ktor" /></a>
+    <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" /></a>
+    <a href="https://supabase.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" /></a>
     <br /><br />
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=deno&theme=dark" alt="Deno" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=remix&theme=dark" alt="Remix" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=solidjs&theme=dark" alt="SolidJS" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nuxt&theme=dark" alt="Nuxt" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma ORM" /></a>
+    <a href="https://nodejs.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" /></a>
+    <a href="https://deno.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=deno&theme=dark" alt="Deno" /></a>
+    <a href="https://www.electronjs.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=electron&theme=dark" alt="Electron" /></a>
+    <a href="https://tauri.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tauri&theme=dark" alt="Tauri" /></a>
+    <a href="https://nextjs.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>
+    <a href="https://remix.run/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=remix&theme=dark" alt="Remix" /></a>
+    <a href="https://www.solidjs.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=solidjs&theme=dark" alt="SolidJS" /></a>
+    <a href="https://vuejs.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
+    <a href="https://nuxt.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=nuxt&theme=dark" alt="Nuxt" /></a>
+    <a href="https://svelte.dev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" /></a>
+    <a href="https://www.prisma.io/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma ORM" /></a>
   </p>
 
   <h3 align="left">IDEs:</h3>
   <p align="left">
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=idea&theme=dark" alt="Intellij IDEA" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=idea&theme=dark" alt="Intellij IDEA" /></a>
+    <a href="https://visualstudio.microsoft.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Visual Studio" /></a>
+    <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" /></a>
   </p>
 
   <h3 align="left">SQL:</h3>
   <p align="left">
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+    <a href="https://www.mysql.com/de/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
   </p>
 
   <h3 align="left">Support:</h3>
