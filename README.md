@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Max</h1>
-  <h3 align="center">A backend developer from :de:</h3>
+  <h2 align="center">Hi 👋, I'm Max - A :de: backend developer.</h2>
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -49,11 +48,10 @@
     <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Visual Studio Code" /></a>
   </p>
 
-  <h3 align="left">Other:</h3>
+  <h3 align="left">SQL:</h3>
   <p align="left">
     <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
     <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
-    <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" /></a>
   </p>
 
   <h3 align="left">Support:</h3>
