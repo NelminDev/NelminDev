@@ -3,13 +3,13 @@
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://dev.to/nelmin" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" alt="nelmin" /></a>
+    <a href="https://dev.to/nelmin" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" /></a>
     <a>‎‎  </a>‎‎
-    <a href="https://twitter.com/nelmindev" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="nelmindev" /></a>
+    <a href="https://twitter.com/nelmindev" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /></a>
     <a>‎‎ ‎ </a>
-    <a href="https://stackoverflow.com/users/16837531" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="16837531" /></a>
+    <a href="https://stackoverflow.com/users/16837531" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stackoverflow" /></a>
     <a>‎‎ ‎ </a>
-    <a href="https://discord.gg/https://discord.gg/j2zapQbXYK" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.gg/j2zapQbXYK" /></a>
+    <a href="https://discord.gg/j2zapQbXYK" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" /></a>
   </p>
   
   <h3 align="left">Languages (and Build Tools):</h3>
