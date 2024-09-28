@@ -41,7 +41,6 @@ The name FOSSmin is a combination of *__FOSS (Free & Open Source Software)__* an
 ### IDEs:
 [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=dark)](https://www.jetbrains.com/idea/)
 [![WebStorm](https://skillicons.dev/icons?i=webstorm&theme=dark)](https://www.jetbrains.com/webstorm/)
-[![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/) - Not Anymore.
 
 ### SQL:
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
