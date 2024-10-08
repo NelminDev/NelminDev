@@ -15,7 +15,7 @@ The name FOSSmin is a combination of *__FOSS (Free & Open Source Software)__* an
 
 ### Connect with me:
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/504014438383222804/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nelmindev@proton.me)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:maximilian@guthmann.dev)
 
 ### What I use:
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
