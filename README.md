@@ -23,31 +23,31 @@ I'm a 15-year-old backend developer passionate about creating privacy-respecting
 
 ## 💻 Tech Stack
 <div align="left">
-  <details open>
+  <details >
     <summary><b>🔧 Languages</b></summary>
     <br>
     <img src="https://skillicons.dev/icons?i=ts,js,kotlin,java&theme=dark" alt="Languages"/>
   </details>
 
-  <details open>
+  <details >
     <summary><b>⚡ Runtimes</b></summary>
     <br>
     <img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark" alt="Runtimes"/>
   </details>
 
-  <details open>
+  <details >
     <summary><b>🏗️ Frameworks</b></summary>
     <br>
     <img src="https://skillicons.dev/icons?i=solidjs,nextjs,nuxtjs&theme=dark" alt="Frameworks"/>
   </details>
 
-  <details open>
+  <details >
     <summary><b>💾 Databases</b></summary>
     <br>
     <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql&theme=dark" alt="Databases"/>
   </details>
 
-  <details open>
+  <details >
     <summary><b>🛠️ Tools & Technologies</b></summary>
     <br>
     <img src="https://skillicons.dev/icons?i=git,linux,docker&theme=dark" alt="Tools"/>
@@ -62,20 +62,29 @@ I'm a 15-year-old backend developer passionate about creating privacy-respecting
 
 ## 🌟 What I Offer
 
-### 🏢 For Companies & Teams
-- 🏗️ Scalable backend architectures
-- 🔒 Security-first development
-- 📈 Performance-oriented solutions
+<details >
+  <summary><b>🏢 For Companies & Teams</b></summary>
+  
+  - 🏗️ Scalable backend architectures
+  - 🔒 Security-first development
+  - 📈 Performance-oriented solutions
+</details>
 
-### 👥 For Private Clients
-- 🎯 Custom privacy-focused solutions
-- 🤝 Clear communication
-- 🔧 Reliable implementations
+<details>
+  <summary><b>👥 For Private Clients</b></summary>
+  
+  - 🎯 Custom privacy-focused solutions
+  - 🤝 Clear communication
+  - 🔧 Reliable implementations
+</details>
 
-### 👨‍💻 For Developers
-- 🌟 Clean, documented code
-- 🤝 Open source collaboration
-- 📚 Knowledge sharing
+<details >
+  <summary><b>👨‍💻 For Developers</b></summary>
+  
+  - 🌟 Clean, documented code
+  - 🤝 Open source collaboration
+  - 📚 Knowledge sharing
+</details>
 
 ## 🌐 Let's Connect
 
