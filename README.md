@@ -19,12 +19,9 @@ I'm a 15-year-old backend developer passionate about creating privacy-respecting
 💼 Experience:   5 Years Active Development
 🎯 Focus:        Backend Development, System Architecture
 ```
+> I use Arch btw!
 
-> 💡 **Fun Fact**: I use Arch Linux btw! Made the switch as part of my journey towards digital privacy and control.
-
-## 💻 Technical Expertise
-
-### Core Stack
+## 💻 Tech Stack
 <div align="left">
   <details open>
     <summary><b>🔧 Languages</b></summary>
@@ -57,79 +54,34 @@ I'm a 15-year-old backend developer passionate about creating privacy-respecting
   </details>
 </div>
 
-### Development Environment
-```plaintext
-📝 Editor:     VSCodium with Vim keybindings
-🐧 OS:         Arch Linux
-🔧 Tools:      Git, Docker, F(L)OSS alternatives
-📚 Principles: Clean Code, SOLID, DRY
-```
-
-### Development Standards
-- 🏗️ **Architecture**: Clean Architecture, Domain-Driven Design
-- 🔒 **Security**: Zero Trust, Privacy by Design
-- 📊 **Quality**: Comprehensive Testing, CI/CD
-- 🚀 **Performance**: Scalable from Day One
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuthmannDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuthmannDev&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuthmannDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuthmannDev&layout=compact&theme=dark" alt="Languages"/>
 </div>
 
-## 🌟 What I Bring to the Table
-### For Teams & Companies
+## 🌟 What I Offer
+
+### 🏢 For Companies & Teams
 - 🏗️ Scalable backend architectures
-- 🔒 Security-first development practices
-- 🚀 Modern tech stack expertise
+- 🔒 Security-first development
 - 📈 Performance-oriented solutions
 
-### For Open Source
+### 👥 For Private Clients
+- 🎯 Custom privacy-focused solutions
+- 🤝 Clear communication
+- 🔧 Reliable implementations
+
+### 👨‍💻 For Developers
 - 🌟 Clean, documented code
-- 🤝 Active collaboration
-- 🔒 Privacy-focused features
+- 🤝 Open source collaboration
 - 📚 Knowledge sharing
-
-## 📈 Journey & Process
-
-```mermaid
-timeline
-    2019 : 🎮 Started with Minecraft (Java)
-         : 🚀 First Steps in Programming
-    2021 : 🌐 Discovered Backend Development
-         : 📚 Mastered TypeScript & Node.js
-    2023 : 🐧 Switched to Linux
-         : 🔒 Embraced Privacy-First Development
-    2024 : 🏗️ Focusing on System Architecture
-         : 🛡️ Building Privacy-Respecting Systems
-```
-
-### Development Workflow
-1. 📋 Requirements & Privacy Analysis
-2. 🎯 Architecture Design
-3. 🔄 Agile Development
-4. 🧪 Comprehensive Testing
-5. 📚 Documentation & Knowledge Sharing
-
-## 🔮 Current Focus
-- 🏗️ Mastering System Architecture
-- 📚 Advanced Backend Patterns
-- 🌟 Open Source Contributions
-- 🚀 Privacy-First Solutions
 
 ## 🌐 Let's Connect
 
-<div align="left">
-  <a href="https://discord.com/users/504014438383222804">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" style="width: 48px; height: 48px;"/>
-  </a>
-  <a href="https://guthmann.dev">
-    <img src="./guthmann.dev-light.png" alt="Website" style="width: 48px; height: 48px;"/>
-  </a>
-  <a href="mailto:maximilian@guthmann.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 48px; height: 48px;"/>
-  </a>
-</div>
+- 🌐 [Website](https://guthmann.dev/)
+- 💬 [Discord](https://discord.com/users/504014438383222804)
+- 📧 [Email](mailto:maximilian@guthmann.dev)
 
 Let's collaborate on creating secure, efficient, and privacy-respecting solutions! Whether you're:
 - 🏢 A company seeking backend expertise
