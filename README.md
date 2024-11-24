@@ -1,47 +1,53 @@
-<h1 align="center">Hey there! 👋</h1>
+# Maximilian Guthmann
 
-### About Me:
-- **👤 Name:** Maximilian Guthmann - but please call me Max.
-- **🎂 Age:** 15 years old  
-- **🌍 Country:** Germany  
-- **💻 Story:** Started coding at 11, now actively coding as a hobby
-- **🚀 Goal:** Start my own company and trying to be successful
+<div align="center">
+  <p>15 y/o Developer from North Rhine-Westphalia, Germany</p>
+  <p>
+    <a href="https://discord.com/users/504014438383222804/">
+      <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" />
+    </a>
+    <a href="mailto:maximilian@guthmann.dev">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" />
+    </a>
+  </p>
+</div>
 
-### What is FOSSmin?:
-FOSSmin is a GitHub Organization, created by me. FOSSmin is where I am going to upload every FOSS app, service, software, etc. that I code.
+## About
 
-The name FOSSmin is a combination of *__FOSS (Free & Open Source Software)__* and *__Nelmin__*
+```typescript
+const max = {
+    age: 15,
+    location: "North Rhine-Westphalia, Germany",
+    journey: {
+        2019: "Started with Minecraft Plugins",
+        2021: "Expanded to Web Development",
+        now: "Building Full-Stack Applications"
+    },
+    goal: "Building my own successful company"
+};
+```
 
+## Tech Stack
 
-### Connect with me:
-[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/504014438383222804/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:maximilian@guthmann.dev)
+<div align="center">
 
-### What I use:
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
-[![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
-  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
+### Core
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=light)
+![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=light)
 
-### Tools:
-[![SolidJS](https://skillicons.dev/icons?i=solidjs)](https://www.solidjs.com/)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-  
-[![Nuxt](https://skillicons.dev/icons?i=nuxt)](https://nuxt.com/)
-[![Next.js](https://skillicons.dev/icons?i=next)](https://nextjs.org/)
+### Runtime & Frameworks
+![NodeJS](https://skillicons.dev/icons?i=nodejs&theme=light)
+![Bun](https://skillicons.dev/icons?i=bun&theme=light)
+![SolidJS](https://skillicons.dev/icons?i=solidjs&theme=light)
+![Next.js](https://skillicons.dev/icons?i=next&theme=light)
+![Vue](https://skillicons.dev/icons?i=vue&theme=light)
+![Nuxt](https://skillicons.dev/icons?i=nuxt&theme=light)
 
-[![Tauri](https://skillicons.dev/icons?i=tauri)](https://tauri.app/)
-[![Ktor](https://skillicons.dev/icons?i=ktor)](https://ktor.io/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+### Infrastructure
+![Supabase](https://skillicons.dev/icons?i=supabase&theme=light)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=light)
+![Git](https://skillicons.dev/icons?i=git&theme=light)
+![Linux](https://skillicons.dev/icons?i=linux&theme=light)
 
-### IDEs:
-[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=dark)](https://www.jetbrains.com/idea/)
-[![WebStorm](https://skillicons.dev/icons?i=webstorm&theme=dark)](https://www.jetbrains.com/webstorm/)
-
-### SQL:
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/de/)
+</div>
