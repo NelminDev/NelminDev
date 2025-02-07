@@ -88,9 +88,9 @@ I'm a 15-year-old backend developer passionate about creating privacy-respecting
 
 ## 🌐 Let's Connect
 
-- 🌐 [Website](https://guthmann.dev/)
+- 🌐 [Website](https://nelmin.dev/)
 - 💬 [Discord](https://discord.com/users/504014438383222804)
-- 📧 [Email](mailto:maximilian@guthmann.dev)
+- 📧 [Email](mailto:me@nelmin.dev)
 
 Let's collaborate on creating secure, efficient, and privacy-respecting solutions! Whether you're:
 - 🏢 A company seeking backend expertise
