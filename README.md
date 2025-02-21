@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maximilian
+# 👋 Hi, I'm Max
 
 <div align="center">
 
